@@ -19,5 +19,11 @@ body {
     border-radius: 50%  
 }
 .kartu-profil {
+  width: 300px;
+    margin: 50px auto; /* Jarak atas/baawah, auto menengahkan kanan/kiri :*/
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px; /*Membuat sudut menjadi melengkung*/
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
   text-align: center;
 }
